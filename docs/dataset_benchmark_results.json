@@ -1,0 +1,414 @@
+{
+  "CSD_CoCl4_2m_tet_spin3": {
+    "status": "done",
+    "n_active_e": 24,
+    "n_active_o": 12,
+    "cas": "CAS(24,12)",
+    "occupation": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "energy_Ha": -3218.519700259499
+  },
+  "CSD_CoCl6_4m_oct_spin1": {
+    "status": "done",
+    "n_active_e": 3,
+    "n_active_o": 2,
+    "cas": "CAS(3,2)",
+    "occupation": [
+      2,
+      1
+    ],
+    "energy_Ha": -4136.898280108443
+  },
+  "CSD_CrCl4_2m_tet_spin2": {
+    "status": "done",
+    "n_active_e": 6,
+    "n_active_o": 7,
+    "cas": "CAS(6,7)",
+    "occupation": [
+      2,
+      2,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "energy_Ha": -2880.665484139955
+  },
+  "CSD_CrCl4_2m_tet_spin4": {
+    "status": "done",
+    "n_active_e": 12,
+    "n_active_o": 8,
+    "cas": "CAS(12,8)",
+    "occupation": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "energy_Ha": -2880.78175392745
+  },
+  "CSD_FeBr4_2m_tet_spin4": {
+    "status": "done",
+    "n_active_e": 17,
+    "n_active_o": 10,
+    "cas": "CAS(17,10)",
+    "occupation": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "energy_Ha": -11550.8768633962
+  },
+  "CSD_FeCl4_2m_tet_spin0": {
+    "status": "done",
+    "n_active_e": 4,
+    "n_active_o": 4,
+    "cas": "CAS(4,4)",
+    "occupation": [
+      2,
+      2,
+      0,
+      0
+    ],
+    "energy_Ha": -3099.6917590737826
+  },
+  "CSD_FeCl4_2m_tet_spin4": {
+    "status": "done",
+    "n_active_e": 29,
+    "n_active_o": 20,
+    "cas": "CAS(29,20)",
+    "occupation": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "energy_Ha": -3099.824595150071
+  },
+  "CSD_FeCl4_dist_tet_spin4": {
+    "status": "done",
+    "n_active_e": 29,
+    "n_active_o": 20,
+    "cas": "CAS(29,20)",
+    "occupation": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "energy_Ha": -3099.8300773357864
+  },
+  "CSD_MnBr4_2m_tet_spin5": {
+    "status": "done",
+    "n_active_e": 17,
+    "n_active_o": 10,
+    "cas": "CAS(17,10)",
+    "occupation": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "energy_Ha": -11438.365610178404
+  },
+  "CSD_MnCl4_2m_tet_spin5": {
+    "status": "done",
+    "n_active_e": 17,
+    "n_active_o": 10,
+    "cas": "CAS(17,10)",
+    "occupation": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "energy_Ha": -2987.333017192375
+  },
+  "CSD_MnCl6_4m_oct_spin5": {
+    "status": "incomplete"
+  },
+  "CSD_MnF6_4m_oct_spin5": {
+    "status": "done",
+    "n_active_e": 15,
+    "n_active_o": 8,
+    "cas": "CAS(15,8)",
+    "occupation": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "energy_Ha": -1742.0532320646414
+  },
+  "CSD_NiCl4_2m_sqpl_spin0": {
+    "status": "done",
+    "n_active_e": 6,
+    "n_active_o": 6,
+    "cas": "CAS(6,6)",
+    "occupation": [
+      2,
+      2,
+      2,
+      0,
+      0,
+      0
+    ],
+    "energy_Ha": -3344.1710714226942
+  },
+  "CSD_NiCl6_4m_oct_spin2": {
+    "status": "done",
+    "n_active_e": 12,
+    "n_active_o": 6,
+    "cas": "CAS(12,6)",
+    "occupation": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "energy_Ha": -4262.343134823996
+  },
+  "Mo_Br6_chg-3_spin3_oct_d2p451": {
+    "status": "done",
+    "n_active_e": 8,
+    "n_active_o": 8,
+    "cas": "CAS(8,8)",
+    "occupation": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "energy_Ha": -15495.131774901569
+  },
+  "Mo_Cl6_chg-3_spin1_oct_d2p299": {
+    "status": "done",
+    "n_active_e": 7,
+    "n_active_o": 7,
+    "cas": "CAS(7,7)",
+    "occupation": [
+      2,
+      2,
+      2,
+      1,
+      0,
+      0,
+      0
+    ],
+    "energy_Ha": -2820.564386268956
+  },
+  "Mo_Cl6_chg-3_spin3_oct_d2p299": {
+    "status": "done",
+    "n_active_e": 25,
+    "n_active_o": 20,
+    "cas": "CAS(25,20)",
+    "occupation": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "energy_Ha": -2807.843094974802
+  },
+  "Pd_Cl4_chg-2_spin0_sq_pl_d2p3": {
+    "status": "done",
+    "n_active_e": 22,
+    "n_active_o": 16,
+    "cas": "CAS(22,16)",
+    "occupation": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "energy_Ha": -1948.8829990810807
+  },
+  "Pd_Cl6_chg-2_spin0_oct_d2p3": {
+    "status": "done",
+    "n_active_e": 4,
+    "n_active_o": 5,
+    "cas": "CAS(4,5)",
+    "occupation": [
+      2,
+      2,
+      0,
+      0,
+      0
+    ],
+    "energy_Ha": -2879.727867730017
+  },
+  "Rh_Cl6_chg-3_spin0_oct_d2p32": {
+    "status": "done",
+    "n_active_e": 2,
+    "n_active_o": 4,
+    "cas": "CAS(2,4)",
+    "occupation": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "energy_Ha": -2863.864249453315
+  },
+  "Rh_Cl6_chg-3_spin2_oct_d2p32": {
+    "status": "done",
+    "n_active_e": 8,
+    "n_active_o": 10,
+    "cas": "CAS(8,10)",
+    "occupation": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "energy_Ha": -2859.9407518344024
+  },
+  "Ru_Cl6_chg-3_spin1_oct_d2p232": {
+    "status": "done",
+    "n_active_e": 11,
+    "n_active_o": 12,
+    "cas": "CAS(11,12)",
+    "occupation": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "energy_Ha": -2844.200974827349
+  },
+  "Ru_Cl6_chg-3_spin3_oct_d2p232": {
+    "status": "done",
+    "n_active_e": 6,
+    "n_active_o": 6,
+    "cas": "CAS(6,6)",
+    "occupation": [
+      2,
+      2,
+      1,
+      1,
+      0,
+      0
+    ],
+    "energy_Ha": -2844.85171654212
+  }
+}
